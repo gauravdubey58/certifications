@@ -22,30 +22,30 @@ Master resource management, security, and compliance in Azure. This section incl
 ### Module 1: `1-Describe_Cloud_Concepts`
 Cloud computing fundamentals and core concepts.
 
-- [Cloud Computing Notes](./1-Describe_Cloud_Concepts/1-Describe_Cloud_Computing/cloud-computing-notes.md)
-- [Cloud Benefits Notes](./1-Describe_Cloud_Concepts/2-Benefits_Cloud_Servicing/cloud-benefits-notes.md)
-- [Azure SLA Notes](./1-Describe_Cloud_Concepts/3-Azure_SLA/azure-sla-notes.md)
-- [Cloud Services Types Notes](./1-Describe_Cloud_Concepts/4-Cloud_Services_Types/cloud-services-types-notes.md)
+- [Cloud Computing Notes](./1-Describe_Cloud_Concepts/1-Describe_Cloud_Computing/AZ-900_Describe_Cloud_Computing_Notes.md)
+- [Cloud Benefits Notes](./1-Describe_Cloud_Concepts/2-Benefits_Cloud_Servicing/AZ-900_Benefits_of_Cloud_Services.md)
+- [Azure SLA Notes](./1-Describe_Cloud_Concepts/3-Azure_SLA/AZ-900_Azure_SLA_Notes.md)
+- [Cloud Services Types Notes](./1-Describe_Cloud_Concepts/4-Cloud_Services_Types/AZ-900_Cloud_Service_Types.md)
 
 ---
 
 ### Module 2: `2-Describe_Azure_Architecture_and_Services`
 Azure services and architectural components.
 
-- [Core Compute Services](./2-Describe_Azure_Architecture_and_Services/core-compute-services.md)
-- [Networking Services](./2-Describe_Azure_Architecture_and_Services/networking-services.md)
-- [Storage Services](./2-Describe_Azure_Architecture_and_Services/storage-services.md)
-- [Database Services](./2-Describe_Azure_Architecture_and_Services/database-services.md)
+- [Core Compute Services](./2-Describe_Azure_Architecture_and_Services/1-Core_Architectural_Components_of_Azure/AZ-900_Core_Architecture.md)
+- [Networking Services](./2-Describe_Azure_Architecture_and_Services/2-Azure_Compute_Networking_Services/AZ-900_Compute_Networking.md)
+- [Storage Services](./2-Describe_Azure_Architecture_and_Services/3-Azure_Storage_Services/AZ-900_Storage_Services.md)
+- [Database Services](./2-Describe_Azure_Architecture_and_Services/4-Azure_Identity_Access_and_Security/AZ-900_Identity_Security.md)
 
 ---
 
 ### Module 3: `3-Describe_Azure_Management_and_Governance`
 Management, governance, and compliance tools.
 
-- [Azure Resource Manager](./3-Describe_Azure_Management_and_Governance/azure-resource-manager.md)
-- [Role-Based Access Control (RBAC)](./3-Describe_Azure_Management_and_Governance/rbac.md)
-- [Azure Policy](./3-Describe_Azure_Management_and_Governance/azure-policy.md)
-- [Azure Monitor](./3-Describe_Azure_Management_and_Governance/azure-monitor.md)
+- [Azure Resource Manager](./3-Describe_Azure_Management_and_Governance/1-Cost_Management_in_Azure/AZ-900_Cost_Management_in_Azure.md)
+- [Role-Based Access Control (RBAC)](./3-Describe_Azure_Management_and_Governance/2-Governance_and_Compliance/AZ-900_Governance_Compliance.md)
+- [Azure Policy](./3-Describe_Azure_Management_and_Governance/3-Managing_and_Deploying_Azure_Resource/AZ-900_Managing_Deploying_Azure_Resource.md)
+- [Azure Monitor](./3-Describe_Azure_Management_and_Governance/4-Monitoring_Tools_in_Azure/AZ-900_Monitoring_Tools_Notes.md)
 
 ---
 
