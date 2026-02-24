@@ -51,7 +51,7 @@ Management, governance, and compliance tools.
 
 ## 💰 Additional Resources
 
-- [Cost Management in Azure](./describe-cost-management-in-azure-notes.md)
+- [[Study Guide of AZ-900](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 
 ---
 
