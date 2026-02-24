@@ -16,8 +16,8 @@ This repository contains structured notes, modules, and study materials for vari
 ## 📂 Available Certification Tracks
 
 ### 🟦 Microsoft Certifications
-- [Microsoft Certifications Index](./Mircosoft/index.md)
-  - [AZ-900 – Azure Fundamentals](./Mircosoft/AZ-900/index.md)
+- [Microsoft Certifications Index](./Microsoft/index.md)
+  - [AZ-900 – Azure Fundamentals](./Microsoft/AZ-900/index.md)
 
 ---
 
