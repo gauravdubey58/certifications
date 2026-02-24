@@ -51,7 +51,7 @@ Management, governance, and compliance tools.
 
 ## 💰 Additional Resources
 
-- [Study Guide of AZ-900](https://learn.microsoft.com/en-us/training/courses/az-900t00)
+- [Microsoft Study Guide of AZ-900](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 
 ---
 
