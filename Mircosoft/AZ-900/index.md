@@ -5,80 +5,114 @@ This directory contains structured notes organized according to the official AZ-
 
 ---
 
-# 📑 Table of Contents
+## 📑 Table of Contents
 
-- [1️⃣ Cloud Concepts](#1️⃣-cloud-concepts)
-- [2️⃣ Azure Architecture & Services](#2️⃣-azure-architecture--services)
-- [3️⃣ Management & Governance](#3️⃣-management--governance)
-
----
-
-# 1️⃣ Cloud Concepts
-
-Core cloud principles and foundational knowledge.
-
-- 📘 [Introduction to Cloud Computing](./introduction-to-cloud-computing-notes.md)
-
-_(Add more cloud concept modules here as you create them)_
+1. [Cloud Concepts](#1️⃣-cloud-concepts)
+2. [Azure Architecture & Services](#2️⃣-azure-architecture--services)
+3. [Management & Governance](#3️⃣-management--governance)
 
 ---
 
-# 2️⃣ Azure Architecture & Services
+## 1️⃣ Cloud Concepts
 
-Core Azure services and architectural components.
+### 📂 Directory: `1-Describe_Cloud_Concepts/`
 
-- 🔜 Core Azure Services (Coming Soon)
-- 🔜 Compute Services
+Core cloud principles and foundational knowledge required for the AZ-900 exam.
+
+**Topics Covered:**
+- [Introduction to Cloud Computing](./1-Describe_Cloud_Concepts/introduction-to-cloud-computing-notes.md)
+- _(More modules to be added)_
+
+**Key Learning Areas:**
+- Cloud computing definitions and models
+- Shared responsibility model
+- Cloud benefits (scalability, elasticity, etc.)
+
+---
+
+## 2️⃣ Azure Architecture & Services
+
+### 📂 Directory: `2-Describe_Azure_Architecture_and_Services/`
+
+Core Azure services and architectural components essential for the certification.
+
+**Topics Covered:**
+- 🔜 Core Compute Services
 - 🔜 Networking Services
 - 🔜 Storage Services
+- 🔜 Database Services
+- 🔜 Analytics Services
+
+**Key Learning Areas:**
+- Virtual Machines
+- App Service
+- Azure Functions
+- Virtual Networks
+- Azure Storage
+- Cosmos DB
+- SQL Database
 
 ---
 
-# 3️⃣ Management & Governance
+## 3️⃣ Management & Governance
 
-Tools used to manage and govern Azure environments.
+### 📂 Directory: `3-Describe_Azure_Management_and_Governance/`
 
-- 🔜 Azure Resource Manager
+Tools and services used to manage and govern Azure environments effectively.
+
+**Topics Covered:**
+- 🔜 Azure Resource Manager (ARM)
 - 🔜 Azure Policy
 - 🔜 Role-Based Access Control (RBAC)
+- 🔜 Azure Monitor
+- 🔜 Resource Tags
+
+**Key Learning Areas:**
+- Resource organization and management
+- Access control and security
+- Compliance and auditing
+- Cost management and optimization
 
 ---
 
-# 📊 Cost Management
+## 💰 Cost Management
 
-Understanding pricing, budgeting, and optimization.
+Understanding pricing, budgeting, and optimization strategies.
 
-- 💰 [Describe Cost Management in Azure](./describe-cost-management-in-azure-notes.md)
+**Topics Covered:**
+- [Describe Cost Management in Azure](./describe-cost-management-in-azure-notes.md)
+- Azure pricing calculator
+- Total Cost of Ownership (TCO)
+- Cost optimization best practices
 
 ---
 
-# 🎯 Exam Preparation
+## 📊 Exam Preparation
 
-## Study Checklist
+### Study Checklist
 
-- [x] Cloud Concepts
+- [x] Cloud Concepts Fundamentals
 - [x] Cost Management Basics
-- [ ] Core Azure Services
+- [ ] Core Azure Services (In Progress)
+- [ ] Azure Architecture
 - [ ] Security & Compliance
-- [ ] Governance & Monitoring
+- [ ] Management & Governance
+- [ ] Practice Tests
+
+### Recommended Study Flow
+
+1. **Start with Cloud Concepts** - Understand fundamental cloud principles
+2. **Move to Azure Architecture & Services** - Learn core Azure offerings
+3. **Study Management & Governance** - Master resource management
+4. **Understand Cost Management** - Learn pricing and optimization
+5. **Complete Practice Tests** - Test your knowledge
+
+### Study Resources
+
+- **Official Microsoft Learn Path:** [AZ-900 Learning Path](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
+- **Exam Guide:** Review official exam skills measured
+- **Practice Tests:** Take multiple practice exams before scheduling the actual exam
 
 ---
 
-## Recommended Study Flow
-
-1. Start with **Cloud Concepts**
-2. Move to **Core Azure Services**
-3. Study **Security & Governance**
-4. Finish with **Pricing & Cost Management**
-5. Take practice tests
-
----
-
-# 🧭 Navigation
-
-⬆️ [Microsoft Certifications](../index.md)  
-🏠 [Certifications Home](../../index.md)
-
----
-
-⭐ Keep building consistently. This section will evolve into a complete AZ-900 knowledge base.
+## 📁 Full Directory Structure
