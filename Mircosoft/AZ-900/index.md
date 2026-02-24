@@ -19,7 +19,7 @@ Master resource management, security, and compliance in Azure. This section incl
 
 ## 📁 Directory Structure & Resources
 
-### Module 1: `1-Describe_Cloud_Concepts`
+### Module 1: `Describe Cloud Concepts`
 Cloud computing fundamentals and core concepts.
 
 - [Cloud Computing Notes](./1-Describe_Cloud_Concepts/1-Describe_Cloud_Computing/AZ-900_Describe_Cloud_Computing_Notes.md)
@@ -29,7 +29,7 @@ Cloud computing fundamentals and core concepts.
 
 ---
 
-### Module 2: `2-Describe_Azure_Architecture_and_Services`
+### Module 2: `Describe Azure Architecture and Services`
 Azure services and architectural components.
 
 - [Core Compute Services](./2-Describe_Azure_Architecture_and_Services/1-Core_Architectural_Components_of_Azure/AZ-900_Core_Architecture.md)
@@ -39,7 +39,7 @@ Azure services and architectural components.
 
 ---
 
-### Module 3: `3-Describe_Azure_Management_and_Governance`
+### Module 3: `Describe Azure Management and Governance`
 Management, governance, and compliance tools.
 
 - [Azure Resource Manager](./3-Describe_Azure_Management_and_Governance/1-Cost_Management_in_Azure/AZ-900_Cost_Management_in_Azure.md)
