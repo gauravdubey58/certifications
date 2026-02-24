@@ -19,46 +19,33 @@ Master resource management, security, and compliance in Azure. This section incl
 
 ## 📁 Directory Structure & Resources
 
-### Folder 1: `1-Describe_Cloud_Concepts`
+### Module 1: `1-Describe_Cloud_Concepts`
 Cloud computing fundamentals and core concepts.
 
-#### Subfolder 1.1: `1-Describe_Cloud_Computing`
-Understanding the basics of cloud computing models and deployment types.
 - [Cloud Computing Notes](./1-Describe_Cloud_Concepts/1-Describe_Cloud_Computing/cloud-computing-notes.md)
-
-#### Subfolder 1.2: `2-Benefits_Cloud_Servicing`
-Exploring the advantages and benefits of cloud services.
 - [Cloud Benefits Notes](./1-Describe_Cloud_Concepts/2-Benefits_Cloud_Servicing/cloud-benefits-notes.md)
-
-#### Subfolder 1.3: `3-Azure_SLA`
-Understanding Service Level Agreements and Azure availability guarantees.
 - [Azure SLA Notes](./1-Describe_Cloud_Concepts/3-Azure_SLA/azure-sla-notes.md)
-
-#### Subfolder 1.4: `4-Cloud_Services_Types`
-Deep dive into IaaS, PaaS, and SaaS service models.
 - [Cloud Services Types Notes](./1-Describe_Cloud_Concepts/4-Cloud_Services_Types/cloud-services-types-notes.md)
 
 ---
 
-### Folder 2: `2-Describe_Azure_Architecture_and_Services`
+### Module 2: `2-Describe_Azure_Architecture_and_Services`
 Azure services and architectural components.
 
 - [Core Compute Services](./2-Describe_Azure_Architecture_and_Services/core-compute-services.md)
 - [Networking Services](./2-Describe_Azure_Architecture_and_Services/networking-services.md)
 - [Storage Services](./2-Describe_Azure_Architecture_and_Services/storage-services.md)
 - [Database Services](./2-Describe_Azure_Architecture_and_Services/database-services.md)
-- _(Additional modules coming soon)_
 
 ---
 
-### Folder 3: `3-Describe_Azure_Management_and_Governance`
+### Module 3: `3-Describe_Azure_Management_and_Governance`
 Management, governance, and compliance tools.
 
 - [Azure Resource Manager](./3-Describe_Azure_Management_and_Governance/azure-resource-manager.md)
 - [Role-Based Access Control (RBAC)](./3-Describe_Azure_Management_and_Governance/rbac.md)
 - [Azure Policy](./3-Describe_Azure_Management_and_Governance/azure-policy.md)
 - [Azure Monitor](./3-Describe_Azure_Management_and_Governance/azure-monitor.md)
-- _(Additional modules coming soon)_
 
 ---
 
@@ -70,9 +57,9 @@ Management, governance, and compliance tools.
 
 ## 🎯 Study Path Recommendation
 
-1. Start with **Folder 1: Cloud Concepts** to build foundational knowledge
-2. Progress to **Folder 2: Azure Services** to understand Azure offerings
-3. Complete **Folder 3: Management & Governance** to master resource management
+1. Start with **Module 1: Cloud Concepts** to build foundational knowledge
+2. Progress to **Module 2: Azure Services** to understand Azure offerings
+3. Complete **Module 3: Management & Governance** to master resource management
 4. Review cost management principles throughout your studies
 
 ---
@@ -81,7 +68,3 @@ Management, governance, and compliance tools.
 
 - ⬆️ [Microsoft Certifications](../index.md)
 - 🏠 [Home](../../index.md)
-
----
-
-⭐ Build consistently toward your certification goal!
