@@ -68,14 +68,14 @@ A **region** is a geographical area containing one or more datacenters.
 
 Examples:
 
--   Central India\
--   East US\
+-   Central India
+-   East US
 -   West Europe
 
 Characteristics:
 
--   Physically separate from other regions\
--   Connected via Microsoft's global network\
+-   Physically separate from other regions
+-   Connected via Microsoft's global network
 -   Independent deployment boundary
 
 **Key Point:** A region defines **where your resources are deployed**.
@@ -101,8 +101,8 @@ Example:
 
 A region may contain:
 
--   Zone 1\
--   Zone 2\
+-   Zone 1
+-   Zone 2
 -   Zone 3
 
 If one zone fails, resources in other zones remain available.
@@ -119,19 +119,19 @@ geography.
 
 Purpose:
 
--   Disaster recovery\
--   Data replication\
+-   Disaster recovery
+-   Data replication
 -   Update sequencing
 
 Benefits:
 
--   One region prioritized during outages\
--   Updates rolled out one region at a time\
+-   One region prioritized during outages
+-   Updates rolled out one region at a time
 -   Some services replicate automatically
 
 Example Pairs:
 
--   West Europe ↔ North Europe\
+-   West Europe ↔ North Europe
 -   East US ↔ West US
 
 **Key Point:** Region pairs protect against **entire region failures**.
