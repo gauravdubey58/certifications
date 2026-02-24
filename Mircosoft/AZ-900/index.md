@@ -1,118 +1,87 @@
 # 💡 AZ-900 – Microsoft Azure Fundamentals
 
-Welcome to the AZ-900 study section.  
-This directory contains structured notes organized according to the official AZ-900 exam domains.
+Welcome to your AZ-900 certification study guide. This repository contains comprehensive notes and resources organized across three core exam domains.
 
 ---
 
-## 📑 Table of Contents
+## 📋 Folder Overview
 
-1. [Cloud Concepts](#1️⃣-cloud-concepts)
-2. [Azure Architecture & Services](#2️⃣-azure-architecture--services)
-3. [Management & Governance](#3️⃣-management--governance)
+### 1️⃣ Describe Cloud Concepts
+Learn the foundational principles of cloud computing, including deployment models (public, private, hybrid), service models (IaaS, PaaS, SaaS), and the shared responsibility model. This section covers cloud benefits, types, and how cloud architecture differs from traditional on-premises solutions.
 
----
+### 2️⃣ Describe Azure Architecture and Services
+Explore Azure's core services and architecture patterns. This section covers compute services (VMs, App Service, Functions), networking (Virtual Networks, Load Balancers), storage solutions (Blob, Table, Queue), and databases (SQL, Cosmos DB). Understand how to deploy and manage resources in Azure.
 
-## 1️⃣ Cloud Concepts
-
-### 📂 Directory: `1-Describe_Cloud_Concepts/`
-
-Core cloud principles and foundational knowledge required for the AZ-900 exam.
-
-**Topics Covered:**
-- [Introduction to Cloud Computing](./1-Describe_Cloud_Concepts/introduction-to-cloud-computing-notes.md)
-- _(More modules to be added)_
-
-**Key Learning Areas:**
-- Cloud computing definitions and models
-- Shared responsibility model
-- Cloud benefits (scalability, elasticity, etc.)
+### 3️⃣ Describe Azure Management and Governance
+Master resource management, security, and compliance in Azure. This section includes Azure Resource Manager (ARM), role-based access control (RBAC), Azure Policy, monitoring with Azure Monitor, and cost management tools. Learn how to maintain secure, compliant, and optimized Azure environments.
 
 ---
 
-## 2️⃣ Azure Architecture & Services
+## 📁 Directory Structure & Resources
 
-### 📂 Directory: `2-Describe_Azure_Architecture_and_Services/`
+### Folder 1: `1-Describe_Cloud_Concepts`
+Cloud computing fundamentals and core concepts.
 
-Core Azure services and architectural components essential for the certification.
+#### Subfolder 1.1: `1-Describe_Cloud_Computing`
+Understanding the basics of cloud computing models and deployment types.
+- [Cloud Computing Notes](./1-Describe_Cloud_Concepts/1-Describe_Cloud_Computing/cloud-computing-notes.md)
 
-**Topics Covered:**
-- 🔜 Core Compute Services
-- 🔜 Networking Services
-- 🔜 Storage Services
-- 🔜 Database Services
-- 🔜 Analytics Services
+#### Subfolder 1.2: `2-Benefits_Cloud_Servicing`
+Exploring the advantages and benefits of cloud services.
+- [Cloud Benefits Notes](./1-Describe_Cloud_Concepts/2-Benefits_Cloud_Servicing/cloud-benefits-notes.md)
 
-**Key Learning Areas:**
-- Virtual Machines
-- App Service
-- Azure Functions
-- Virtual Networks
-- Azure Storage
-- Cosmos DB
-- SQL Database
+#### Subfolder 1.3: `3-Azure_SLA`
+Understanding Service Level Agreements and Azure availability guarantees.
+- [Azure SLA Notes](./1-Describe_Cloud_Concepts/3-Azure_SLA/azure-sla-notes.md)
 
----
-
-## 3️⃣ Management & Governance
-
-### 📂 Directory: `3-Describe_Azure_Management_and_Governance/`
-
-Tools and services used to manage and govern Azure environments effectively.
-
-**Topics Covered:**
-- 🔜 Azure Resource Manager (ARM)
-- 🔜 Azure Policy
-- 🔜 Role-Based Access Control (RBAC)
-- 🔜 Azure Monitor
-- 🔜 Resource Tags
-
-**Key Learning Areas:**
-- Resource organization and management
-- Access control and security
-- Compliance and auditing
-- Cost management and optimization
+#### Subfolder 1.4: `4-Cloud_Services_Types`
+Deep dive into IaaS, PaaS, and SaaS service models.
+- [Cloud Services Types Notes](./1-Describe_Cloud_Concepts/4-Cloud_Services_Types/cloud-services-types-notes.md)
 
 ---
 
-## 💰 Cost Management
+### Folder 2: `2-Describe_Azure_Architecture_and_Services`
+Azure services and architectural components.
 
-Understanding pricing, budgeting, and optimization strategies.
-
-**Topics Covered:**
-- [Describe Cost Management in Azure](./describe-cost-management-in-azure-notes.md)
-- Azure pricing calculator
-- Total Cost of Ownership (TCO)
-- Cost optimization best practices
-
----
-
-## 📊 Exam Preparation
-
-### Study Checklist
-
-- [x] Cloud Concepts Fundamentals
-- [x] Cost Management Basics
-- [ ] Core Azure Services (In Progress)
-- [ ] Azure Architecture
-- [ ] Security & Compliance
-- [ ] Management & Governance
-- [ ] Practice Tests
-
-### Recommended Study Flow
-
-1. **Start with Cloud Concepts** - Understand fundamental cloud principles
-2. **Move to Azure Architecture & Services** - Learn core Azure offerings
-3. **Study Management & Governance** - Master resource management
-4. **Understand Cost Management** - Learn pricing and optimization
-5. **Complete Practice Tests** - Test your knowledge
-
-### Study Resources
-
-- **Official Microsoft Learn Path:** [AZ-900 Learning Path](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
-- **Exam Guide:** Review official exam skills measured
-- **Practice Tests:** Take multiple practice exams before scheduling the actual exam
+- [Core Compute Services](./2-Describe_Azure_Architecture_and_Services/core-compute-services.md)
+- [Networking Services](./2-Describe_Azure_Architecture_and_Services/networking-services.md)
+- [Storage Services](./2-Describe_Azure_Architecture_and_Services/storage-services.md)
+- [Database Services](./2-Describe_Azure_Architecture_and_Services/database-services.md)
+- _(Additional modules coming soon)_
 
 ---
 
-## 📁 Full Directory Structure
+### Folder 3: `3-Describe_Azure_Management_and_Governance`
+Management, governance, and compliance tools.
+
+- [Azure Resource Manager](./3-Describe_Azure_Management_and_Governance/azure-resource-manager.md)
+- [Role-Based Access Control (RBAC)](./3-Describe_Azure_Management_and_Governance/rbac.md)
+- [Azure Policy](./3-Describe_Azure_Management_and_Governance/azure-policy.md)
+- [Azure Monitor](./3-Describe_Azure_Management_and_Governance/azure-monitor.md)
+- _(Additional modules coming soon)_
+
+---
+
+## 💰 Additional Resources
+
+- [Cost Management in Azure](./describe-cost-management-in-azure-notes.md)
+
+---
+
+## 🎯 Study Path Recommendation
+
+1. Start with **Folder 1: Cloud Concepts** to build foundational knowledge
+2. Progress to **Folder 2: Azure Services** to understand Azure offerings
+3. Complete **Folder 3: Management & Governance** to master resource management
+4. Review cost management principles throughout your studies
+
+---
+
+## 🧭 Navigation
+
+- ⬆️ [Microsoft Certifications](../index.md)
+- 🏠 [Home](../../index.md)
+
+---
+
+⭐ Build consistently toward your certification goal!
