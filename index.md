@@ -6,7 +6,7 @@ This is the master navigation file for all certifications in this repository.
 
 ## 🟦 Microsoft Certifications
 
-- 📘 [Microsoft Certifications Overview](./Mircosoft/index.md)
+- 📘 [Microsoft Certifications Overview](./Microsoft/index.md)
 
 ---
 
