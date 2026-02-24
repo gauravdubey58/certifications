@@ -10,9 +10,6 @@ This directory contains structured notes organized according to the official AZ-
 - [1️⃣ Cloud Concepts](#1️⃣-cloud-concepts)
 - [2️⃣ Azure Architecture & Services](#2️⃣-azure-architecture--services)
 - [3️⃣ Management & Governance](#3️⃣-management--governance)
-- [📊 Cost Management](#📊-cost-management)
-- [🎯 Exam Preparation](#🎯-exam-preparation)
-- [🧭 Navigation](#🧭-navigation)
 
 ---
 
