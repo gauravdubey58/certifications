@@ -51,7 +51,7 @@ Management, governance, and compliance tools.
 
 ## 💰 Additional Resources
 
-- [[Study Guide of AZ-900](https://learn.microsoft.com/en-us/training/courses/az-900t00)
+- [Study Guide of AZ-900](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 
 ---
 
@@ -60,7 +60,6 @@ Management, governance, and compliance tools.
 1. Start with **Module 1: Cloud Concepts** to build foundational knowledge
 2. Progress to **Module 2: Azure Services** to understand Azure offerings
 3. Complete **Module 3: Management & Governance** to master resource management
-4. Review cost management principles throughout your studies
 
 ---
 
