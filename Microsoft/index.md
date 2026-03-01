@@ -26,9 +26,9 @@ Microsoft certifications are grouped into four levels:
 | Exam | Title | Level | Path |
 |------|-------|-------|------|
 | AZ-900 | Azure Fundamentals | Fundamentals | [Open Notes →](./AZ-900/index.md) |
-| AZ-104 | Azure Administrator | Associate | 🔜 Planned |
-| AZ-204 | Azure Developer | Associate | 🔜 Planned |
-| AZ-305 | Azure Infrastructure Solutions | Expert | 🔜 Planned |
+| AZ-900 | Azure AI Fundamentals | Fundamentals | [Open Notes →](./AI-900/index.md)  |
+| DP-900 | Azure Data Fundamentals | Fundamentals | [Open Notes →](./DP-900/index.md) |
+| SC-900 | Azure Sexcurity Fundamentals | Fundamentals | [Open Notes →](./SC-900/index.md) |
 
 ---
 
@@ -47,14 +47,6 @@ Microsoft certifications are grouped into four levels:
 - Microsoft offers **free retakes** via certain learning promotions — watch for Microsoft Ignite and Build events.
 - Exam questions are scenario-based; understanding *why* is more important than memorising facts.
 - Use the free **Microsoft Learn sandbox** environments for hands-on practice without needing an Azure subscription.
-
----
-
-## 📊 Progress
-
-| Exam | Status |
-|------|--------|
-| AZ-900 | 📝 In Progress |
 
 ---
 
