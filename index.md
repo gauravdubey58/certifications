@@ -34,16 +34,6 @@ GitHub certifications covering developer workflows, collaboration, and platform 
 
 ---
 
-## 📊 Progress Overview
-
-| Track | Total Exams | In Progress | Completed |
-|-------|-------------|-------------|-----------|
-| 🟦 Microsoft | 1 | 1 | 0 |
-| 🐙 GitHub | 1 | 1 | 0 |
-| **Total** | **2** | **2** | **0** |
-
----
-
 ## 🔗 Quick Links
 
 - 🏠 [Repository Home / README](./README.md)
