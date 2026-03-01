@@ -41,24 +41,6 @@ certifications/
 
 ---
 
-## 📖 Available Certifications
-
-### 🟦 Microsoft
-
-| Exam | Title | Level |
-|------|-------|-------|
-| [AZ-900](./Microsoft/AZ-900/index.md) | Azure Fundamentals | Fundamentals |
-| [AI-900](./Microsoft/AI-900/index.md) | Azure AI Fundamentals | Fundamentals | 
-
-
-### 🐙 GitHub
-
-| Exam | Title | Level |
-|------|-------|-------|
-| [GitHub Foundations](./GitHub/index.md) | GitHub Foundations | Fundamentals |
-
----
-
 ## 🎯 Purpose
 
 This repository serves as a personal knowledge base for certification study. Each folder is self-contained and includes:
