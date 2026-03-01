@@ -22,33 +22,13 @@ GitHub offers role-based certifications that validate skills across its platform
 
 ## 📁 Available Study Materials
 
-| Certification | Path | Status |
-|---------------|------|--------|
-| GitHub Foundations | [Open Notes →](#github-foundations) | 📝 In Progress |
-| GitHub Actions | 🔜 Planned | — |
-| GitHub Advanced Security | 🔜 Planned | — |
-| GitHub Administration | 🔜 Planned | — |
-| GitHub Copilot | 🔜 Planned | — |
+| Certification | Code | Path |
+|---------------|---------|---------------|
+| GitHub Foundations | GH-900 | [Open Notes →](./GH-900/index.md) |
+| GitHub Actions | GH-200 | [Open Notes →](./GH-200/index.md) |
+| GitHub Copilot | GH-300 | [Open Notes →](./GH-300/index.md) |
 
 ---
-
-## 🗂️ GitHub Foundations
-
-**Exam Code:** GitHub Foundations  
-**Level:** Fundamentals  
-**Duration:** 120 minutes  
-**Format:** Multiple choice and scenario-based questions
-
-### 📚 Domain Breakdown
-
-| Domain | Weight (approx.) | Topics |
-|--------|-----------------|--------|
-| 1 – Introduction to Git and GitHub | ~22% | Version control basics, GitHub features |
-| 2 – Working with GitHub Repositories | ~17% | Creating, managing, and forking repos |
-| 3 – Collaboration Features | ~31% | Issues, PRs, discussions, code review |
-| 4 – Modern Development | ~13% | GitHub Actions intro, Codespaces, Copilot |
-| 5 – Project Management | ~7% | Projects, milestones, labels |
-| 6 – Privacy, Security & Administration | ~10% | Org settings, permissions, 2FA |
 
 ### 🔗 Official Study Resources
 
@@ -87,19 +67,6 @@ GitHub offers role-based certifications that validate skills across its platform
 - If you fail, you must wait **1 week** before retaking.
 - Focus on the **GitHub workflow** and real-world usage scenarios, not just definitions.
 - The GitHub Foundations exam is a great entry point — it covers features you likely already use.
-
----
-
-## 📊 Progress
-
-| Certification | Status |
-|---------------|--------|
-| GitHub Foundations | 📝 In Progress |
-| GitHub Actions | 🔜 Planned |
-| GitHub Advanced Security | 🔜 Planned |
-| GitHub Administration | 🔜 Planned |
-| GitHub Copilot | 🔜 Planned |
-
 ---
 
 🏠 [← Back to Master Index](../index.md)
