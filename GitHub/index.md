@@ -66,7 +66,8 @@ GitHub offers role-based certifications that validate skills across its platform
 - Exams are available in **multiple languages** including English.
 - If you fail, you must wait **1 week** before retaking.
 - Focus on the **GitHub workflow** and real-world usage scenarios, not just definitions.
-- The GitHub Foundations exam is a great entry point — it covers features you likely already use.
+- The **GitHub Copilot** is important because it fundamentally changes how developers write, review, and learn code. It acts as an AI pair programmer inside your editor.
+- The **GitHub Foundations** exam is a great entry point — it covers features you likely already use.
 ---
 
 🏠 [← Back to Master Index](../index.md)
