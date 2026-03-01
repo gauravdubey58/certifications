@@ -1,69 +1,85 @@
-# 💡 AZ-900 – Microsoft Azure Fundamentals
+# ☁️ AZ-900 – Microsoft Azure Fundamentals
 
-Welcome to your AZ-900 certification study guide. This repository contains comprehensive notes and resources organized across three core exam domains.
-
----
-
-## 📋 Folder Overview
-
-### 1️⃣ Describe Cloud Concepts
-Learn the foundational principles of cloud computing, including deployment models (public, private, hybrid), service models (IaaS, PaaS, SaaS), and the shared responsibility model. This section covers cloud benefits, types, and how cloud architecture differs from traditional on-premises solutions.
-
-### 2️⃣ Describe Azure Architecture and Services
-Explore Azure's core services and architecture patterns. This section covers compute services (VMs, App Service, Functions), networking (Virtual Networks, Load Balancers), storage solutions (Blob, Table, Queue), and databases (SQL, Cosmos DB). Understand how to deploy and manage resources in Azure.
-
-### 3️⃣ Describe Azure Management and Governance
-Master resource management, security, and compliance in Azure. This section includes Azure Resource Manager (ARM), role-based access control (RBAC), Azure Policy, monitoring with Azure Monitor, and cost management tools. Learn how to maintain secure, compliant, and optimized Azure environments.
+> **Exam:** AZ-900 — Microsoft Azure Fundamentals
+> **Level:** Beginner / Fundamentals
+> **Based on:** [Microsoft Learn Official Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 
 ---
 
-## 📁 Directory Structure & Resources
+## 📊 Exam Domain Weights
 
-### Module 1: `Describe Cloud Concepts`
-Cloud computing fundamentals and core concepts.
-
-- [Cloud Computing Notes](./1-Describe_Cloud_Concepts/1-Describe_Cloud_Computing/AZ-900_Describe_Cloud_Computing_Notes.md)
-- [Cloud Benefits Notes](./1-Describe_Cloud_Concepts/2-Benefits_Cloud_Servicing/AZ-900_Benefits_of_Cloud_Services.md)
-- [Azure SLA Notes](./1-Describe_Cloud_Concepts/3-Azure_SLA/AZ-900_Azure_SLA_Notes.md)
-- [Cloud Services Types Notes](./1-Describe_Cloud_Concepts/4-Cloud_Services_Types/AZ-900_Cloud_Service_Types.md)
-
----
-
-### Module 2: `Describe Azure Architecture and Services`
-Azure services and architectural components.
-
-- [Core Compute Services](./2-Describe_Azure_Architecture_and_Services/1-Core_Architectural_Components_of_Azure/AZ-900_Core_Architecture.md)
-- [Networking Services](./2-Describe_Azure_Architecture_and_Services/2-Azure_Compute_Networking_Services/AZ-900_Compute_Networking.md)
-- [Storage Services](./2-Describe_Azure_Architecture_and_Services/3-Azure_Storage_Services/AZ-900_Storage_Services.md)
-- [Database Services](./2-Describe_Azure_Architecture_and_Services/4-Azure_Identity_Access_and_Security/AZ-900_Identity_Security.md)
+| Domain | Topic | Weight |
+|--------|-------|--------|
+| Domain 1 | [Describe Cloud Concepts](./domain-1-cloud-concepts.md) | **25–30%** |
+| Domain 2 | [Describe Azure Architecture and Services](./domain-2-azure-architecture-services.md) | **35–40%** |
+| Domain 3 | [Describe Azure Management and Governance](./domain-3-management-governance.md) | **30–35%** |
+| — | [⚡ Quick Reference Cheat Sheet](./quick-reference.md) | — |
+| — | [📝 50 Practice MCQs with Answers](./mcqs.md) | — |
 
 ---
 
-### Module 3: `Describe Azure Management and Governance`
-Management, governance, and compliance tools.
+## 🎯 Audience Profile
 
-- [Azure Resource Manager](./3-Describe_Azure_Management_and_Governance/1-Cost_Management_in_Azure/AZ-900_Cost_Management_in_Azure.md)
-- [Role-Based Access Control (RBAC)](./3-Describe_Azure_Management_and_Governance/2-Governance_and_Compliance/AZ-900_Governance_Compliance.md)
-- [Azure Policy](./3-Describe_Azure_Management_and_Governance/3-Managing_and_Deploying_Azure_Resource/AZ-900_Managing_Deploying_Azure_Resource.md)
-- [Azure Monitor](./3-Describe_Azure_Management_and_Governance/4-Monitoring_Tools_in_Azure/AZ-900_Monitoring_Tools_Notes.md)
+Ideal for **anyone beginning their cloud journey** — no deep technical background required. You should be familiar with:
+- Basic computer and networking concepts
+- General understanding of what cloud computing is
 
 ---
 
-## 💰 Additional Resources
+## 📚 Study Modules
 
-- [Microsoft Study Guide of AZ-900](https://learn.microsoft.com/en-us/training/courses/az-900t00)
+### 🔹 [Domain 1 – Cloud Concepts](./domain-1-cloud-concepts.md) `25–30%`
+- What is cloud computing and its benefits
+- Cloud service models: IaaS, PaaS, SaaS
+- Cloud deployment models: Public, Private, Hybrid
+- CapEx vs OpEx; consumption-based model
+- Shared Responsibility Model
+
+### 🔹 [Domain 2 – Azure Architecture and Services](./domain-2-azure-architecture-services.md) `35–40%`
+- Azure global infrastructure: regions, availability zones, resource groups
+- Azure compute: VMs, App Service, Functions, Containers, AKS
+- Azure networking: VNet, Load Balancer, VPN Gateway, ExpressRoute, DNS
+- Azure storage: Blob, Files, Queue, Table, Disk
+- Azure identity: Microsoft Entra ID, MFA, RBAC, Conditional Access
+- Azure security: Defender for Cloud, Key Vault, DDoS Protection
+
+### 🔹 [Domain 3 – Azure Management and Governance](./domain-3-management-governance.md) `30–35%`
+- Cost management: Pricing Calculator, TCO Calculator, Cost Management
+- Azure governance: Management Groups, Subscriptions, Resource Groups
+- Policy and compliance: Azure Policy, Blueprints, Resource Locks
+- Monitoring: Azure Monitor, Log Analytics, Service Health, Advisor
+- Management tools: Portal, CLI, PowerShell, ARM Templates, Bicep, Cloud Shell
+
+### ⚡ [Quick Reference Cheat Sheet](./quick-reference.md)
+- Every Azure service at a glance
+- Key comparisons (IaaS/PaaS/SaaS, CapEx/OpEx, etc.)
+- Most tested exam topics
+
+### 📝 [50 Practice MCQs with Answers](./mcqs.md)
+- 50 multiple-choice questions covering all domains
+- Detailed answers with explanations + score tracker
 
 ---
 
-## 🎯 Study Path Recommendation
+## ✅ Progress Tracker
 
-1. Start with **Module 1: Cloud Concepts** to build foundational knowledge
-2. Progress to **Module 2: Azure Services** to understand Azure offerings
-3. Complete **Module 3: Management & Governance** to master resource management
+- [ ] Domain 1 – Cloud Concepts
+- [ ] Domain 2 – Azure Architecture and Services
+- [ ] Domain 3 – Azure Management and Governance
+- [ ] Quick Reference reviewed
+- [ ] All 50 MCQs completed
+- [ ] Score ≥ 80% on MCQs
+- [ ] Exam booked
 
 ---
 
-## 🧭 Navigation
+## 🔗 Useful Links
 
-- ⬆️ [Microsoft Certifications](../index.md)
-- 🏠 [Home](../../index.md)
+| Resource | Link |
+|----------|------|
+| Official Study Guide | https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900 |
+| Free Microsoft Learn Course | https://learn.microsoft.com/en-us/training/courses/az-900t00 |
+| Azure Fundamentals Learning Path | https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/ |
+| Azure Pricing Calculator | https://azure.microsoft.com/en-us/pricing/calculator/ |
+| Azure TCO Calculator | https://azure.microsoft.com/en-us/pricing/tco/calculator/ |
+| Exam Registration | https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/ |
