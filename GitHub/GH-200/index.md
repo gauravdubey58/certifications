@@ -15,6 +15,7 @@
 | Domain 3 | [Author and Maintain Actions](./domain-3-author-maintain-actions.md) | **25%** |
 | Domain 4 | [Manage GitHub Actions in the Enterprise](./domain-4-manage-enterprise.md) | **15%** |
 | — | [⚡ Quick Reference Cheat Sheet](./quick-reference.md) | — |
+| — | [📝 50 Practice MCQs with Answers](./mcqs.md) | — |
 
 ---
 
