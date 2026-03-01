@@ -1,24 +1,66 @@
-# 📚 Certifications Index
+# 🗂️ Certifications Master Index
 
-This is the master navigation file for all certifications in this repository.
+Welcome to the master navigation index for all certification study materials in this repository.
 
----
-
-## 🟦 Microsoft Certifications
-
-- 📘 [Microsoft Certifications Overview](./Microsoft/index.md)
+> **Last Updated:** March 2026  
+> **Maintainer:** Gaurav Dubey  
+> **Repo:** [gauravdubey58/certifications](https://github.com/gauravdubey58/certifications)
 
 ---
 
-## 🚀 Planned Additions
+## 📁 Certification Tracks
 
-- AWS Certifications
-- Google Cloud Certifications
-- DevOps Certifications
-- Security Certifications
+### 🟦 Microsoft Certifications
+
+Microsoft certifications spanning Azure, Microsoft 365, and related cloud technologies.
+
+| Exam | Title | Level | Notes |
+|------|-------|-------|-------|
+| [AZ-900](./Microsoft/AZ-900/index.md) | Azure Fundamentals | Fundamentals | Core cloud concepts & Azure services |
+
+➡️ [View full Microsoft index →](./Microsoft/index.md)
 
 ---
 
-## 🏠 Back to Main Page
+### 🐙 GitHub Certifications
 
-➡️ [Repository Home](./README.md)
+GitHub certifications covering developer workflows, collaboration, and platform features.
+
+| Exam | Title | Level | Notes |
+|------|-------|-------|-------|
+| [GitHub Foundations](./GitHub/index.md) | GitHub Foundations | Fundamentals | Git, repos, collaboration basics |
+
+➡️ [View full GitHub index →](./GitHub/index.md)
+
+---
+
+## 📊 Progress Overview
+
+| Track | Total Exams | In Progress | Completed |
+|-------|-------------|-------------|-----------|
+| 🟦 Microsoft | 1 | 1 | 0 |
+| 🐙 GitHub | 1 | 1 | 0 |
+| **Total** | **2** | **2** | **0** |
+
+---
+
+## 🔗 Quick Links
+
+- 🏠 [Repository Home / README](./README.md)
+- 🟦 [Microsoft Certifications](./Microsoft/index.md)
+- 🐙 [GitHub Certifications](./GitHub/index.md)
+
+---
+
+## 🏷️ Legend
+
+| Symbol | Meaning |
+|--------|---------|
+| 📝 | In Progress |
+| ✅ | Completed / Passed |
+| ⏸️ | On Hold |
+| 🔜 | Planned |
+
+---
+
+> 💡 Each certification's `index.md` file contains detailed module breakdowns, study resources, and revision notes.
