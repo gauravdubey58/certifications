@@ -28,7 +28,8 @@ Microsoft certifications are grouped into four levels:
 | AZ-900 | Azure Fundamentals | Fundamentals | [Open Notes →](./AZ-900/index.md) |
 | AZ-900 | Azure AI Fundamentals | Fundamentals | [Open Notes →](./AI-900/index.md)  |
 | DP-900 | Azure Data Fundamentals | Fundamentals | [Open Notes →](./DP-900/index.md) |
-| SC-900 | Azure Sexcurity Fundamentals | Fundamentals | [Open Notes →](./SC-900/index.md) |
+| SC-900 | Azure Security Fundamentals | Fundamentals | [Open Notes →](./SC-900/index.md) |
+| AI-102 | Azure AI Engineer Associate | Associate | [Open Notes →](./AI-102/index.md) |
 
 ---
 
