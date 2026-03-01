@@ -35,15 +35,17 @@ certifications/
 
 ### 🟦 Microsoft
 
-| Exam | Title | Level | Status |
-|------|-------|-------|--------|
-| [AZ-900](./Microsoft/AZ-900/index.md) | Azure Fundamentals | Fundamentals | 📝 In Progress |
+| Exam | Title | Level |
+|------|-------|-------|
+| [AZ-900](./Microsoft/AZ-900/index.md) | Azure Fundamentals | Fundamentals |
+| [AI-900](./Microsoft/AI-900/index.md) | Azure AI Fundamentals | Fundamentals | 
+
 
 ### 🐙 GitHub
 
-| Exam | Title | Level | Status |
-|------|-------|-------|--------|
-| [GitHub Foundations](./GitHub/index.md) | GitHub Foundations | Fundamentals | 📝 In Progress |
+| Exam | Title | Level |
+|------|-------|-------|
+| [GitHub Foundations](./GitHub/index.md) | GitHub Foundations | Fundamentals |
 
 ---
 
